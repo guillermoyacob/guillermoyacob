@@ -10,11 +10,12 @@
 
 ---
 
-### ✨ I made this
+### 📌 I made this
 
 | Project | Description |
 |---|---|
 | [Amazed](https://github.com/guillermoyacob/amazed) | Media downloader |
+| [JSON chat to SRT](https://github.com/guillermoyacob/json-chat-to-srt) | Chat to Subtitle Converter |
 
 ---
 
